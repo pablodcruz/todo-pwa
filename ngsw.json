@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1679326759268,
-  "index": "/index.html",
+  "timestamp": 1679335438930,
+  "index": "C:/Program Files/Git/todo-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.6fff21b75b944493.js",
-        "/manifest.webmanifest",
-        "/polyfills.b0762da5ff3d745f.js",
-        "/runtime.c710fd0b71b125fe.js",
-        "/styles.ef46db3751d8e999.css"
+        "C:/Program Files/Git/todo-pwa/favicon.ico",
+        "C:/Program Files/Git/todo-pwa/index.html",
+        "C:/Program Files/Git/todo-pwa/main.6fff21b75b944493.js",
+        "C:/Program Files/Git/todo-pwa/manifest.webmanifest",
+        "C:/Program Files/Git/todo-pwa/polyfills.b0762da5ff3d745f.js",
+        "C:/Program Files/Git/todo-pwa/runtime.c710fd0b71b125fe.js",
+        "C:/Program Files/Git/todo-pwa/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "C:/Program Files/Git/todo-pwa/assets/icons/icon-128x128.png",
+        "C:/Program Files/Git/todo-pwa/assets/icons/icon-144x144.png",
+        "C:/Program Files/Git/todo-pwa/assets/icons/icon-152x152.png",
+        "C:/Program Files/Git/todo-pwa/assets/icons/icon-192x192.png",
+        "C:/Program Files/Git/todo-pwa/assets/icons/icon-384x384.png",
+        "C:/Program Files/Git/todo-pwa/assets/icons/icon-512x512.png",
+        "C:/Program Files/Git/todo-pwa/assets/icons/icon-72x72.png",
+        "C:/Program Files/Git/todo-pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "2acb9e3bdbe90cc5fddca82ee223d08fb560bc2c",
-    "/main.6fff21b75b944493.js": "ea5a0ef91649e56df3938a7d00a9c025e5d74795",
-    "/manifest.webmanifest": "60aa5073c6bf75c48bc543eb6b4f8eedc577a4c2",
-    "/polyfills.b0762da5ff3d745f.js": "a67bc288f939cded1c51a215fb0ca9c1a4685bae",
-    "/runtime.c710fd0b71b125fe.js": "118555abc60cdddaa2d03479bf76c69476314d69",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "C:/Program Files/Git/todo-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "C:/Program Files/Git/todo-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "C:/Program Files/Git/todo-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "C:/Program Files/Git/todo-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "C:/Program Files/Git/todo-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "C:/Program Files/Git/todo-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "C:/Program Files/Git/todo-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "C:/Program Files/Git/todo-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "C:/Program Files/Git/todo-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "C:/Program Files/Git/todo-pwa/index.html": "1cdefe6cb98ef0740ee80c6d237467edb44f807e",
+    "C:/Program Files/Git/todo-pwa/main.6fff21b75b944493.js": "ea5a0ef91649e56df3938a7d00a9c025e5d74795",
+    "C:/Program Files/Git/todo-pwa/manifest.webmanifest": "60aa5073c6bf75c48bc543eb6b4f8eedc577a4c2",
+    "C:/Program Files/Git/todo-pwa/polyfills.b0762da5ff3d745f.js": "a67bc288f939cded1c51a215fb0ca9c1a4685bae",
+    "C:/Program Files/Git/todo-pwa/runtime.c710fd0b71b125fe.js": "118555abc60cdddaa2d03479bf76c69476314d69",
+    "C:/Program Files/Git/todo-pwa/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
